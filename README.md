@@ -6,8 +6,8 @@ A single-page site showing the profile, current work, portfolio highlights, expe
 
 - `index.html` — the whole site
 - `style.css` — styling
-- `assets/photo.jpg` — headshot
-- `assets/Qazi_Shamsud_Tahmeed_CV.pdf` — downloadable CV (linked from the "Download CV" button)
+- `photo.jpg` — headshot
+- `Qazi_Shamsud_Tahmeed_CV.pdf` — downloadable CV (linked from the "Download CV" button)
 
 No build step — these are plain static files.
 
